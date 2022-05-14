@@ -1,6 +1,6 @@
 title: Zaid Qureshi
-url: "/"
-baseurl: "https://dontcallmebigguy.github.io/zaid"
+url: "/zaid"
+baseurl: "https://dontcallmebigguy.github.io"
 
 markdown: kramdown
 
