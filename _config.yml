@@ -1,6 +1,6 @@
 title: Zaid Qureshi
 
-# deployment only
+deployment only
 baseurl: "/zaid"
 url: "https://dontcallmebigguy.github.io"
 
@@ -17,7 +17,9 @@ sass:
 nav:
  - name: "About"
    link: "index"
+   page-url: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+   page-url: "/contact.html"
