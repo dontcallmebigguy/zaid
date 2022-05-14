@@ -15,11 +15,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About1"
+ - name: "About"
    link: "index"
-   page-url: "/zaid"
+   page-url: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
-   page-url: "/zaid/contact.html"
+   page-url: "/contact.html"
