@@ -65,7 +65,7 @@
                     {% if x.page-url == page.url %}
                         <li class="alignable pull-left nav-list"><a target="_blank" class="active-link" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}, {{ x.page-url}}, {{ page.url}}</a>
                     {% endif %}
                     {% if forloop.last == false %}
                         /
