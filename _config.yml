@@ -1,6 +1,6 @@
 title: Zaid Qureshi
 url: "/zaid"
-baseurl: "http://dontcallmebigguy.github.io"
+baseurl: "https://dontcallmebigguy.github.io/"
 
 markdown: kramdown
 
@@ -14,7 +14,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "index"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
