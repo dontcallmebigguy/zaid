@@ -21,7 +21,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
+1. [Linkedin](https://www.linkedin.com/in/qureshizaid/)
 3. [Google Scholar](https://scholar.google.com/citations?user=geBhu-IAAAAJ&hl=en)
 4. [Linkedin]()
