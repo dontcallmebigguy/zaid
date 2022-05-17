@@ -1,8 +1,8 @@
 title: Zaid Qureshi
 
 #deployment only
-# baseurl: "/zaid"
-# url: "https://dontcallmebigguy.github.io"
+baseurl: "/zaid"
+url: "https://dontcallmebigguy.github.io"
 
 markdown: kramdown
 
