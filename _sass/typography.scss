@@ -12,7 +12,7 @@
         position: relative;
         list-style: none;
         margin-top: 5px;
-        margin-bottom: 5px;
+        margin-bottom: 15px;
     }
     ul > li {
         margin: 5px 0 5px 0;
@@ -42,7 +42,8 @@
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
-        border-radius: 75%;
+        padding-top: 30px;
+        padding-bottom: 15px;
         p & {
             padding: 0;
             margin: 0;

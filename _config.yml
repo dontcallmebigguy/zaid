@@ -1,8 +1,8 @@
 title: Zaid Qureshi
 
 #deployment only
-baseurl: "/zaid"
-url: "https://dontcallmebigguy.github.io"
+# baseurl: "/zaid"
+# url: "https://dontcallmebigguy.github.io"
 
 markdown: kramdown
 
@@ -23,3 +23,21 @@ nav:
  - name: "Contact"
    link: "contact"
    page-url: "/contact.html"
+
+about: 
+  - heading: "About Me"
+    body: "Hi! I’m Zaid Qureshi and I stack transistors. I’m a sexy boi."
+  - heading: "Research Interest"
+    body:  "I’m a sexy boi stacking transistors. I also mess with gpus sometimes. I’m a badass."
+
+publications: 
+  - name: "Flatflash: Exploiting the byte-accessibility of ssds within a unified memory-storage hierarchy"
+    authors: "A Abulila, VS Mailthody, Z Qureshi, J Huang, NS Kim, J Xiong, W Hwu"
+    link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=geBhu-IAAAAJ&citation_for_view=geBhu-IAAAAJ:u-x6o8ySG0sC"
+    citations: 32
+    year: 2019
+  - name: "Deepstore: In-storage acceleration for intelligent queries"
+    authors: "VS Mailthody, Z Qureshi, W Liang, Z Feng, SG De Gonzalo, Y Li, H Franke"
+    link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=geBhu-IAAAAJ&citation_for_view=geBhu-IAAAAJ:d1gkVwhDpl0C"
+    citations: 21
+    year: 2019
