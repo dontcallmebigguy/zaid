@@ -1,4 +1,4 @@
-title: Zaid Qureshi
+title: Nathan Grammel
 
 #deployment only
 # baseurl: "/zaid"
@@ -26,9 +26,9 @@ nav:
 
 about: 
   - heading: "About Me"
-    body: "Hi! I’m Zaid Qureshi and I stack transistors. I’m a sexy boi."
+    body: "Hi! I’m Nathan Grammel and I'm a wordle beast."
   - heading: "Research Interest"
-    body:  "I’m a sexy boi stacking transistors. I also mess with gpus sometimes. I’m a badass."
+    body:  "I do some theory shit. I'm gonna be a millionaire by 35."
 
 publications: 
   - name: "Flatflash: Exploiting the byte-accessibility of ssds within a unified memory-storage hierarchy"
